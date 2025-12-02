@@ -1,0 +1,5 @@
+{
+  "name": "Imajinasi AI - Generator Gambar",
+  "description": "Aplikasi pembuat gambar berbasis AI yang mengubah deskripsi terstruktur (Subjek, Gaya, Pencahayaan) menjadi visual menakjubkan menggunakan Gemini 2.5.",
+  "requestFramePermissions": []
+}
